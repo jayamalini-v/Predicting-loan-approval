@@ -1,0 +1,35 @@
+DEFINE PROBLEM/PROBLEM UNDERSTANDING
+
+1)Specify The Business Problem
+
+* A loan is a sum of money that is borrowed and repaid over a period of time, typically with interest.
+* There are various types of loans available to individuals and businesses, such as personal loans, mortgages, auto loans, student loans, business loans and many more.
+* They are offered by banks, credit unions, and other financial institutions, and the terms of the loan, such as interest rate, repayment period, and fees, vary depending on the lender and the type of loan.
+* A personal loan is a type of unsecured loan that can be used for a variety of expenses such as home repairs, medical expenses, debt consolidation, and more.
+*  The loan amount, interest rate, and repayment period vary depending on the lender and the borrower's creditworthiness.To qualify for a personal loan, borrowers typically need to provide proof of income and have a good credit score.
+* Predicting personal loan approval using machine learning analyses a borrower's financial data and credit history to determine the likelihood of loan approval.
+*  This can help financial institutions to make more informed decisions about which loan applications to approve and which to deny.
+
+2)Business Requirements
+
+* The business requirements for a machine learning model to predict personal
+* Minimise the number of false positives (approved loans that default) and false negatives 
+* Provide an explanation for the model's decision, to comply with regulations and improve transparency.
+
+3)Literature Survey
+
+* As the data is increasing daily due to digitization in the banking sector, people want to apply for loans through the internet.
+*  Machine Learning (ML), as a typical method for information investigation, has gotten more consideration increasingly.
+*  Individuals of various businesses are utilising ML calculations to take care of the issues dependent on their industry information.
+* Banks are facing a significant problem in the approval of the loan. 
+ * Daily there are so many applications that are challenging to manage by the bank employees, and also the chances of some mistakes are high.Most banks earn profit from the loan, but it is risky to choose deserving customers from the number of applications.
+* There are various algorithms that have been used with varying levels of success. Logistic regression, decision tree, random forest, and neural networks have all been used and have been able to accurately predict loan defaults.
+*  Commonly used features in these studies include credit score, income, and employment history, sometimes also other features like age, occupation, and education level.
+
+4)Social Or Business Impact.
+
+a)Social Impact:
+Personal loans can stimulate economic growth by providing individuals with the funds they need to make major purchases, start businesses, or invest in their education.
+
+b)Business Model/Impact:
+Personal loan providers may charge fees for services such as loan origination, processing, and late payments.Advertising the brand awareness and marketing to reach out to potential borrowers to generate revenue.
